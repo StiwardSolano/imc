@@ -1,0 +1,2 @@
+# imc
+ funcionaminto reactjs
