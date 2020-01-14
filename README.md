@@ -1,3 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Para replicar el proyecto, clonar o descargar en zip
 
+## Tener instalado nodejs
 
+## cd a la carpeta del proyecto.
+
+## npm install
+
+## en algunos casos es necesario ejecutar npm audit fix
+
+## npm start
